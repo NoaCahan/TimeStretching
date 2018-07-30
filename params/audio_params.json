@@ -1,0 +1,15 @@
+{
+    "num_mels":80,
+    "fmin":125,
+    "fmax":7600,
+    "fft_size":2048,
+    "hop_size":512,
+    "sample_rate":16000,
+    "min_level_db":-130,
+    "ref_level_db":25,
+    "rescaling":false,
+    "rescaling_max":0.999,
+    "allow_clipping_in_normalization":false,
+    "window_length":48000,
+    "power":1.4
+}

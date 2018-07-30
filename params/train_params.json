@@ -1,0 +1,15 @@
+{
+    "log_dir":"./log/",
+    "restore_dir":"./restore/",
+    "restore_model":"Autoencoder1.model",
+    "check_point_every":2000,
+    "print_every":300,
+    "num_epochs":10000,
+    "optimizer":"Adam",
+    "max_check_points":10,
+    "learning_rate":1e-4,
+    "momentum":0.9,
+    "device_ids":false,
+    "clip_grad":0.5,
+    "ignore_grad":1000
+}
